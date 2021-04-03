@@ -1,0 +1,10 @@
+global _rounds; _rounds = 10
+global _bet; _bet = 10
+global _purse; _purse = 100
+global _passline; _passline = 5
+global _bpassline; _bpassline = 0
+global _hardbets; _hardbets = 0
+global _hard; _hard = 0
+global _bpassline410odds; _bpassline410odds = 2/1
+global _bpassline59odds; _bpassline59odds = 3/2
+global _bpassline68odds; _bpassline68odds = 6/5
